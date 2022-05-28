@@ -8,7 +8,7 @@ subject to: <br />
   x1 + 3x2 ≥ 2 <br />
   x1, x2 ≥ 0 <br />
   
-If you want to solve this problem then, simply run the simplex_method.java code and enter values in console as same as below: <br />
+If you want to solve this problem then, simply run the big_m_method.java code and enter values in console as same as below: <br />
 
 Choose Problem Type: <br />
 		 1) Maximization Problem <br />
